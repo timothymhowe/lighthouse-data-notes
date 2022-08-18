@@ -1,5 +1,5 @@
 """
-A pie chart is a circular graphical representation of a dataset, 
+A pie chart is a circular graphical representation of a data,
 where each category frequency is represented by a slice (or circular sector) 
 with an amplitude in degrees given by the single frequency percentage over the total of frequencies. 
 
