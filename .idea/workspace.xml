@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8daffa25-782a-4066-95c3-57c0bda47019" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week-08/1-mon/pyspark-walkthrough.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-08/3-wed/text-feature-extraction.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-08/1-mon/numpy_dnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-08/4-thu/sentiment-analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/lighthouse-data-notes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lighthouse-data-notes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise/NLP_data_preparation_exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise/NLP_data_preparation_exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-08/1-mon/exercise/neural_networks_exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-08/1-mon/exercise/neural_networks_exercise.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,21 +26,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/week-08/1-mon/exercise" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DQKeAmVDWm7IloC9ILzXC1dqt2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/thowe/Projects/LighthouseLabs/lighthouse-notes",
+    "last_opened_file_path": "/home/thowe/Projects/data-notes",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660625960752</updated>
       <workItem from="1660625961930" duration="8587000" />
+      <workItem from="1660943824619" duration="7115000" />
     </task>
     <servers />
   </component>
@@ -71,5 +81,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
