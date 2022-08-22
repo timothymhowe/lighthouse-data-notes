@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8daffa25-782a-4066-95c3-57c0bda47019" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/lighthouse-data-notes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lighthouse-data-notes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-07/3-wed/pyspark-intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-07/3-wed/pyspark-intro.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise" beforeDir="false" afterPath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise/NLP_data_preparation_exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise/NLP_data_preparation_exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise/NLP_representations_exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise/NLP_representations_exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise/NLP_sentiment_analysis_exercise.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-08/4-thu/NLP_sentiment_analysis_exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-08/4-thu/NLP_sentiment_analysis_exercise.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="8daffa25-782a-4066-95c3-57c0bda47019" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,20 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/thowe/Projects/final_project",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Docker"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thowe/Projects/final_project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Docker&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Docker Image" type="docker-deploy" factoryName="docker-image" server-name="Docker">
       <deployment type="docker-image">
@@ -83,6 +73,7 @@
       <workItem from="1661023693855" duration="10180000" />
       <workItem from="1661122154051" duration="4392000" />
       <workItem from="1661138340014" duration="2695000" />
+      <workItem from="1661197701288" duration="336000" />
     </task>
     <servers />
   </component>
