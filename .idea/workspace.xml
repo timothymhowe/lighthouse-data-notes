@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8daffa25-782a-4066-95c3-57c0bda47019" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week-08/1-mon/numpy_dnn.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-08/4-thu/sentiment-analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-07/1-mon/custom-pipeline.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-07/3-wed/pyspark-intro.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/lighthouse-data-notes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lighthouse-data-notes.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-08/1-mon/exercise/neural_networks_exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-08/1-mon/exercise/neural_networks_exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise" beforeDir="false" afterPath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise/NLP_data_preparation_exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise/NLP_data_preparation_exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise/NLP_representations_exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise/NLP_representations_exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-08/3-wed/NLP_exercise/NLP_sentiment_analysis_exercise.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,34 +28,31 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/week-08/1-mon/exercise" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DQKeAmVDWm7IloC9ILzXC1dqt2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/thowe/Projects/data-notes",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thowe/Projects/final_project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,8 +61,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660625960752</updated>
-      <workItem from="1660625961930" duration="8587000" />
-      <workItem from="1660943824619" duration="8002000" />
+      <workItem from="1660625961930" duration="25194000" />
+      <workItem from="1660966301122" duration="3880000" />
+      <workItem from="1661023693855" duration="10180000" />
+      <workItem from="1661122154051" duration="4392000" />
     </task>
     <servers />
   </component>
@@ -76,13 +76,22 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
